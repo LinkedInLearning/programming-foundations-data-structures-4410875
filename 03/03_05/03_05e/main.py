@@ -6,7 +6,6 @@ user_preferences = {
     "theme": None
 }
 
-
 def update_preferences(user_pref):
     return {}
 
