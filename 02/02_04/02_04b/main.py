@@ -12,6 +12,5 @@ for INDIVIDUAL_PET_COUNT in student_pet_count_list:
     SUM = SUM + INDIVIDUAL_PET_COUNT
 print(SUM)
 
-# average = sum / number of items
 AVERAGE = SUM / NUM_OF_STUDENTS
 print(AVERAGE)
