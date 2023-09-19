@@ -1,36 +1,19 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Programming Foundations: Data Structures
+This is the repository for the LinkedIn Learning course Programming Foundations: Data Structures. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![course-name-alt-text][lil-thumbnail-url] 
+![Programming Foundations: Data Structures][lil-thumbnail-url] 
 
-_See the readme file in the main branch for updated instructions and information._
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+Once you get past simple programs with one or two variables, you'll use data structures to store the values in your applications. Data structures are a lot like containers—there's one for every way you want to store your data. While structures like arrays and queues are sometimes taken for granted, a deeper understanding is vital for any programmer who wants to know what's going on "under the hood" and understand how the choices they've made impact the performance and efficiency of their applications. In this course, Kathryn Hodge provides an in-depth overview of the most essential data structures for modern programming in Python. Starting with simple ways of grouping data, like arrays, lists, and tuples, Kathryn gradually introduces more complex data structures, such as dictionaries, sets, queues, and stacks. Each lesson is accompanied by a real-world, practical example that shows the data structures in action. Upon completing this course, you'll have a richer understanding of data structures and how to leverage them as you code.
 
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
+### Instructor
 
-When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
+Kathryn Hodge 
+                            
+Software Engineer
 
-    error: Your local changes to the following files would be overwritten by checkout:        [files]
-    Please commit your changes or stash them before you switch branches.
-    Aborting
+                            
 
-To resolve this issue:
-	
-    Add changes to git using this command: git add .
-	Commit changes using this command: git commit -m "some message"
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/kathryn-hodge).
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
-
-
-[0]: # (Replace these placeholder URLs with actual course URLs)
-
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
-
+[lil-course-url]: https://www.linkedin.com/learning/programming-foundations-data-structures-22859292?dApp=59033956&leis=LAA
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHxm1ogQ0bu3g/learning-public-crop_675_1200/0/1695143297332?e=2147483647&v=beta&t=2ZXMFcky-k_paF3Drss-WW4l974px0vXoUuHnGNQaRI
